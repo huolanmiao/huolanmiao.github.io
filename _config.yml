@@ -21,7 +21,7 @@ repository               : "huolanmiao/huolanmiao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "lipengyu.jpg"
+  avatar           : "lipengyu.png"
   name             : "Pengyu Li"
   pronouns         : # example: "she/her"  
   bio              : "I will learn"
